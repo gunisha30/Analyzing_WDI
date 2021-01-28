@@ -1,2 +1,3 @@
 # Analyzing_WDI
-A repository consisting all necessary information about the project 'WDI Analysis'.
+This project aims at analysing World Development Indicators- a compilation of various metrics provided by The World Bank. The project is split into two sections. The first section involves cleaning and transforming data according to the requirements, applying text mining techniques to prepare data, executing k-means clustering to cluster indicators and  word2vec has been used to calculate similarity between statements. The second section of the project focuses upon using Tableau as a tool to develop visualisations to study patterns in the data over time. 
+Data can be found at: https://datacatalog.worldbank.org/dataset/world-development-indicators
